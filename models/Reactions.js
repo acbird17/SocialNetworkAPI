@@ -1,8 +1,4 @@
 const mongoose = require("mongoose");
-// const moment = require("moment");
-
-// const User = require("./Users");
-// const Thought = require("./Thoughts");
 
 const Schema = mongoose.Types;
 let ObjectId = Schema.ObjectId;

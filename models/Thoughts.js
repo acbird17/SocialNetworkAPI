@@ -1,9 +1,6 @@
 const mongoose = require("mongoose");
-// const moment = require("moment");
 
 const reactionSchema = require("./Reactions");
-// const User = require("./Users");
-// const Schema = mongoose.Types;
 
 const thoughtSchema = new mongoose.Schema(
   {
